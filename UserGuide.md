@@ -4,8 +4,8 @@
 1. Introduction
 2. System Requirements
 3. Using the Application
-6. Troubleshooting
-7. Frequently Asked Questions (FAQ)
+4. Troubleshooting
+5. Frequently Asked Questions (FAQ)
 
 
 ## 1. Introduction
@@ -17,16 +17,16 @@ Welcome to the Real-Time Bus Tracking System! This application allows you to mon
 - 
 - 
 
-##3. Using the Application
+## 3. Using the Application
 
 
-## 6. Troubleshooting
+## 4. Troubleshooting
 
 - If the map doesn't load, check your internet connection and ensure you have a valid Mapbox API key.
 - If bus positions aren't updating, verify that the WebSocket connection is established (check browser console for messages).
 - For database connection issues, double-check your MySQL connection string in `main.py`.
 
-## 7. Frequently Asked Questions (FAQ)
+## 5. Frequently Asked Questions (FAQ)
 
 Q: How often do bus positions update?
 A: Bus positions update in real-time as events are received from the Kafka stream.
