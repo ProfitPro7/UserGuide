@@ -39,4 +39,3 @@ A: The current version focuses on real-time data. Historical data features may b
 
 ## 8. Contact Support
 
-For additional assistance, please contact our support team at support@realtimebustracker.com or visit our support portal at https://support.realtimebustracker.com.
