@@ -1,7 +1,7 @@
 # ProfitPro User Manual
 
 # Deployed URL 
-(here)
+https://profitpro-e81ab.web.app/
 
 ## Table of Contents
 1. Introduction
