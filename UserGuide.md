@@ -2,6 +2,8 @@
 
 # Deployed URL 
 https://profitpro-e81ab.web.app/
+Login Information:
+
 
 ## Table of Contents
 1. Introduction
