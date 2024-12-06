@@ -18,81 +18,102 @@ Welcome to the accounting website ProfitPro! This web application allows you to 
 
 ## 3. Using the Application
 
-1. In order to access ProfitPro's accounting features, you must first log in/sign up.
-    - Click "Sign In" or "Get Started" on the home page to log in
-    - To give you full access to the entire site, we created an admin account specifically for you.
-      - Email: X
-      - Password: X
-   
-2. The Bookkeeping page allows the user to create or modify accounts.
+### 1. Log In/Sign Up
+To access ProfitPro's accounting features, you must first log in or sign up:
+- Click **"Sign In"** or **"Get Started"** on the home page to log in.
+- We created an admin account specifically for you to give full access to the site:
+  - **Email:** `X`
+  - **Password:** `X`
 
-   Create Account
-     - Enter information into the required input fields
-     - For additional help, please use the provided tooltips
-     - Click on "Add Account" to finish
-     - Confirm creation of account by checking the "Modify Accounts" tab
-  
-    Modify Accounts
-     - Click on an account in the table to view more information
-         - Click "Back" to view all accounts again
-         - Click "Modify" to modify account information or modify account ledger
-           - Click "Modify Account Information"
-             - Enter input fields to change account information
-             - Click "Add Account" to finish
-           - Click "Modify Account Ledger"
-             - Enter input fields to add a new record to ledger
-             - Click "Add Record" to finish
-         - Click "Deactivate Account" to deactivate account
-           - Confirm deactivation by either selecting "Yes" or "No"
-            
-3. The Reports page allows the user to view the Chart of Accounts, send emails, and create reports
+---
 
-     Accounts
-       - Use the search feature to find specific accounts by inputting any keywords found in account number, name, description, normal side, category, or                 subcategory
-       - Select an account to view account information, ledger, journal entries, and event log
-         - Click "Back" to view all accounts again
-         - Create a journal entry for the account by clicking "Create Journal Entry"
-           - Enter date, description, add credits/debits, and attach a reference document
-           - Click "Submit" to finish
-         - Approve or deny any pending journal entries in the "Actions" column
+### 2. Bookkeeping Page
+The Bookkeeping page allows users to create or modify accounts.
 
-     Email
-       - Send emails by entering email address, subject, and message
-       - Click "Send Email" to finish
+#### **Create Account**
+1. Enter information into the required input fields.
+2. Use the provided tooltips for additional help.
+3. Click **"Add Account"** to finish.
+4. Confirm the creation of the account by checking the **"Modify Accounts"** tab.
 
-     Create Reports
-       - Create a report by inputting statement type and start/end dates
-       - Click "Generate Statement" to create statement
-       - Click "Save and Print" to save and print generated statement
+#### **Modify Accounts**
+1. Click on an account in the table to view more information:
+   - Click **"Back"** to view all accounts again.
+   - Click **"Modify"** to:
+     - **Modify Account Information**:
+       - Update input fields with new account information.
+       - Click **"Add Account"** to save changes.
+     - **Modify Account Ledger**:
+       - Enter input fields to add a new record to the ledger.
+       - Click **"Add Record"** to finish.
+   - Click **"Deactivate Account"** to deactivate the account:
+     - Confirm deactivation by selecting **"Yes"** or **"No"**.
 
-5. The Administrator page allows an administrator to manage users, create users, send emails, and view expired passwords
+---
 
-     Manage Users
-       - Click on users to view a dropdown of user information
-       - Click on "Update Information" to change user information
-         - Enter the input fields and click "Submit" to save changes
-       - Click on "Change User Role" to change account type
-         - Use the dropdown to select role and click "Submit" to save changes
-       - Click on "Activate/Deactivate User" to activate or deactivate account
-         - Use the dropdown to activate or deactivate account and click "Submit" to save changes
-       - Click on "Suspend User" to suspend a user throughout a certain period
-         - Input the start date and end date and click "Submit" to save changes
+### 3. Reports Page
+The Reports page allows users to view the Chart of Accounts, send emails, and create reports.
 
-     Create User
-       - Enter user information into the input fields
-       - Click "Submit" to create user
+#### **Accounts**
+1. Use the search feature to find specific accounts by inputting keywords found in:
+   - Account number, name, description, normal side, category, or subcategory.
+2. Select an account to view detailed information, including:
+   - Ledger, journal entries, and event log.
+   - Click **"Back"** to view all accounts again.
+3. Create a journal entry for the account:
+   - Click **"Create Journal Entry"**.
+   - Enter date, description, add credits/debits, and attach a reference document.
+   - Click **"Submit"** to save.
+4. Approve or deny any pending journal entries in the **"Actions"** column.
 
-     Email
-       - Send emails by entering email address, subject, and message
-       - Click "Send Email" to finish
+#### **Email**
+1. Send emails by entering:
+   - Email address, subject, and message.
+2. Click **"Send Email"** to finish.
 
-     Expired Passwords
-       - Click on a user to view a dropdown of their expired password and date
+#### **Create Reports**
+1. Generate a report:
+   - Input statement type and start/end dates.
+   - Click **"Generate Statement"**.
+2. Save and print the statement:
+   - Click **"Save and Print"**.
 
-6. The Home page allows the user to view financial ratios and pending journal entries waiting for approval
-     - Click "See Data" to view ratio calculations
-     - Click "To Accounts" view Chart of Accounts 
-     
+---
+
+### 4. Administrator Page
+The Administrator page allows admins to manage users, create users, send emails, and view expired passwords.
+
+#### **Manage Users**
+1. Click on a user to view a dropdown with their information.
+2. Update user information:
+   - Click **"Update Information"**, enter input fields, and click **"Submit"**.
+3. Change user role:
+   - Click **"Change User Role"**, select a role from the dropdown, and click **"Submit"**.
+4. Activate/Deactivate a user account:
+   - Click **"Activate/Deactivate User"**, select the appropriate status, and click **"Submit"**.
+5. Suspend a user:
+   - Click **"Suspend User"**, input the start and end dates, and click **"Submit"**.
+
+#### **Create User**
+1. Enter user information into the input fields.
+2. Click **"Submit"** to create the user.
+
+#### **Email**
+1. Send emails by entering:
+   - Email address, subject, and message.
+2. Click **"Send Email"** to finish.
+
+#### **Expired Passwords**
+1. Click on a user to view a dropdown showing their expired passwords and expiration dates.
+
+---
+
+### 5. Home Page
+The Home page allows users to:
+- View financial ratios and pending journal entries awaiting approval:
+  - Click **"See Data"** to view ratio calculations.
+  - Click **"To Accounts"** to view the Chart of Accounts.
+
 
 ## 4. Troubleshooting
 
