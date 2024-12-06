@@ -1,5 +1,8 @@
 # ProfitPro User Manual
 
+# Deployed URL 
+(here)
+
 ## Table of Contents
 1. Introduction
 2. System Requirements
