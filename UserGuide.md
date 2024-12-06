@@ -97,25 +97,52 @@ Welcome to the accounting website ProfitPro! This web application allows you to 
 ## 4. Troubleshooting
 
 ### Cannot log in?
-- Ensure your password is correct.  
-- Check your email for a reset link if you’ve forgotten it.
+- Ensure your password is correct. Passwords are case-sensitive.  
+- Use the **Forgot Password** option if you can’t remember your password.  
+  - Enter your email and user ID to receive a reset link.  
+  - Follow the instructions to create a new password.  
+- If you are locked out after multiple failed attempts, contact support.  
 
 ### Website not loading?
-- Check your internet connection.  
-- Clear your browser cache.
+- Check your internet connection to ensure it's stable.  
+- Try refreshing the page or using a different browser.  
+- Clear your browser cache and cookies.  
+- Ensure the website URL is correct: **[https://profitpro-e81ab.web.app/](#)**.  
+
+### Features not working as expected?
+- Make sure you are using a supported browser (e.g., Chrome, Firefox).  
+- Disable browser extensions that might interfere with the app.  
+- Log out and log back in to refresh your session.  
+
+### Forgot your email or user ID?
+- Contact **appdomain-profitpro@gmail.com** with details like your name or registered phone number.  
 
 ---
 
 ## 5. Frequently Asked Questions (FAQ)
 
 **Q: What should my password contain?**  
-A: Passwords must be at least 8 characters, start with a letter, and include a number and special character.
+A: Passwords must be at least 8 characters, start with a letter, and include:  
+   - At least one letter  
+   - At least one number  
+   - At least one special character (e.g., @, #, $).  
 
 **Q: Can I reset my password?**  
-A: Yes, through the **Forgot Password** link.
+A: Yes! Use the **Forgot Password** link on the login page.  
+
+**Q: How do I deactivate my account?**  
+A: Contact support at **appdomain-profitpro@gmail.com** with your request. They will guide you through the process.  
+
+**Q: Is my data secure on ProfitPro?**  
+A: Yes! We use encryption and strict security protocols to keep your information safe.  
+
+**Q: Can I use ProfitPro on mobile devices?**  
+A: Yes, ProfitPro works on mobile browsers, and an app version is coming soon.
+
+---
 
 ## 8. Contact Support
 
-Email: appdomain-profitpro@gmail.com
-Phone Number: +01 1234567890
+- **Email**:  appdomain-profitpro@gmail.com
+- **Phone**: +01 1234567890
 
