@@ -97,12 +97,10 @@ Welcome to the accounting website ProfitPro! This web application allows you to 
 ## 4. Troubleshooting
 
 Cannot log in?
-
 Ensure your password is correct.
 Check your email for a reset link if you’ve forgotten it.
 
 Website not loading?
-
 Check your internet connection.
 Clear your browser cache.
 
@@ -110,10 +108,11 @@ Clear your browser cache.
 
 Q: What should my password contain?
 
-A: Passwords must be at least 8 characters, start with a letter, and include a number and special character.
+    A: Passwords must be at least 8 characters, start with a letter, and include a number and special character.
+
 Q: Can I reset my password?
 
-A: Yes, through the Forgot Password link.
+    A: Yes, through the Forgot Password link.
 
 ## 8. Contact Support
 
