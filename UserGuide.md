@@ -96,20 +96,21 @@ Welcome to the accounting website ProfitPro! This web application allows you to 
 
 ## 4. Troubleshooting
 
-- If the map doesn't load, check your internet connection and ensure you have a valid Mapbox API key.
-- If bus positions aren't updating, verify that the WebSocket connection is established (check browser console for messages).
-- For database connection issues, double-check your MySQL connection string in `main.py`.
+Cannot log in?
+
+Ensure your password is correct.
+Check your email for a reset link if you’ve forgotten it.
+Website not loading?
+
+Check your internet connection.
+Clear your browser cache.
 
 ## 5. Frequently Asked Questions (FAQ)
 
-Q: How often do bus positions update?
-A: Bus positions update in real-time as events are received from the Kafka stream.
-
-Q: Can I track multiple buses simultaneously?
-A: Yes, the system is designed to handle multiple assets (buses) concurrently.
-
-Q: Is historical data available?
-A: The current version focuses on real-time data. Historical data features may be added in future updates.
+Q: What should my password contain?
+A: Passwords must be at least 8 characters, start with a letter, and include a number and special character.
+Q: Can I reset my password?
+A: Yes, through the Forgot Password link.
 
 ## 8. Contact Support
 
