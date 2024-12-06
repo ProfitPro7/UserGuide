@@ -100,6 +100,7 @@ Cannot log in?
 
 Ensure your password is correct.
 Check your email for a reset link if you’ve forgotten it.
+
 Website not loading?
 
 Check your internet connection.
@@ -108,8 +109,10 @@ Clear your browser cache.
 ## 5. Frequently Asked Questions (FAQ)
 
 Q: What should my password contain?
+
 A: Passwords must be at least 8 characters, start with a letter, and include a number and special character.
 Q: Can I reset my password?
+
 A: Yes, through the Forgot Password link.
 
 ## 8. Contact Support
