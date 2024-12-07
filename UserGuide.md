@@ -9,8 +9,8 @@ Access the application here: [ProfitPro](https://profitpro-e81ab.web.app/)
   - **Password:** `test1234!`  
 
 - **To view as an administrator:**  
-  - **Email:** `<prof-admin-account@gmail.com>`  
-  - **Password:** `<test1234!>`  
+  - **Email:** `prof-admin-account@gmail.com`  
+  - **Password:** `test1234!`  
 
 
 
