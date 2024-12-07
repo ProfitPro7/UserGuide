@@ -5,12 +5,12 @@ Access the application here: [ProfitPro](https://profitpro-e81ab.web.app/)
 
 ### Login Information  
 - **To view as a regular user:**  
-  - **Email:** `<user@example.com>`  
-  - **Password:** `<password>`  
+  - **Email:** `<prof-regular-user@gmail.com>`  
+  - **Password:** `<test1234!>`  
 
 - **To view as an administrator:**  
-  - **Email:** `<admin@example.com>`  
-  - **Password:** `<password>`  
+  - **Email:** `<prof-admin-account@gmail.com>`  
+  - **Password:** `<test1234!>`  
 
 
 
